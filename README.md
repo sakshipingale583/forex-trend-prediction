@@ -12,6 +12,9 @@ This project predicts USD/INR exchange rate trends using machine learning and ti
 ## Dataset
 Historical daily USD/INR exchange rate data (2015–2023).
 
+## Data Source
+Forex data is fetched dynamically using the yfinance library.
+
 ## Workflow
 - Data preprocessing & visualization
 - Model training & evaluation
