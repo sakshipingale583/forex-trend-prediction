@@ -1,4 +1,4 @@
-# forex-trend-prediction
+
 # USD/INR Forex Trend Prediction using Machine Learning
 
 ## Project Overview
